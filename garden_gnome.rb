@@ -13,3 +13,7 @@ class GardenGnome
   gnome2 = GardenGnome.new(James_the_Jerk, 3421)
   gnome3 = GardenGnome.new(Alfred_the_Abhorrent, 579, gluten_allergy)
     
+    puts gnome1.name
+    
+    
+    
